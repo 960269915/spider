@@ -4,9 +4,6 @@ const path = require("path");
 const fs = require("fs")
 const async = require("async")
 var request = require("request");
-const {
-  off
-} = require('process')
 
 
 // 获取列表
